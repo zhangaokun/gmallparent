@@ -32,7 +32,7 @@
     </dependencies>
 
     <build>
-        <finalName>service-gateway</finalName>
+        <finalName>service-product</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
